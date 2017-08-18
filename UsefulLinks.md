@@ -24,7 +24,7 @@ https://www.analyticsvidhya.com/blog/2016/06/bayesian-statistics-beginners-simpl
 GLM's from first principles and fitting in multiple ways:  
 http://seananderson.ca/2014/04/08/gamma-glms.html
 
-Gamlss - modern distribution-based approach to (semiparametric) regression models:
+Gamlss - modern distribution-based approach to (semiparametric) regression models:  
 http://www.gamlss.org/
 
 ### Software
