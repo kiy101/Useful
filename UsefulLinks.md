@@ -40,6 +40,10 @@ http://think-like-a-git.net
 http://learngitbranching.js.org/  
 http://r-bio.github.io/intro-git-rstudio/
 
+### Data Sources
+
+GitHub page of public datasets:
+https://github.com/awesomedata/awesome-public-datasets
 
 ### R and packages
 
